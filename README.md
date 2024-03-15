@@ -1,1 +1,1 @@
-# WordPress Theme Lereno
+# WordPress Theme for Lereno Landing Page
